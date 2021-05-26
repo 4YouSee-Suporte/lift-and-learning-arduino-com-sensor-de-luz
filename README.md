@@ -25,5 +25,5 @@ Uma vez o circuito esteja montado você precisa tanto debugar o projeto como cal
 
 Não esqueça de estabelecer a porta e a placa em Ferramentas.
 
-Para mais detalhes ou dúvidas nesta configuração você pode assistir o video de configuração ao nível de software [Lift and Learning usando arduino leonardo com sensores LDR](https://youtu.be/n5dpdk6WEJI) ou a nivel de hardware [Set Up do Lift and Learning usando arduino leonardo com sensores LDR](https://youtu.be/8KNqqadcNLY)
+Para mais detalhes ou dúvidas nesta configuração você pode assistir o video de configuração ao nível de software [Lift and Learning usando arduino leonardo com sensores LDR](https://youtu.be/n5dpdk6WEJI) ou a nivel de hardware [Set Up do Lift and Learning usando arduino leonardo com sensores LDR](https://youtu.be/96gaH0HVEG4)
 
