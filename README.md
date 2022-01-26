@@ -20,8 +20,8 @@ Para este projeto é necessário cumprir os seguintes itens:
 * Computador Windows com el [software arduino](https://downloads.arduino.cc/arduino-1.8.15-windows.exe) instalado.
 
 
-<h1>⚈ Como Debugar ou Calibrar os Sensores</h1>
-Uma vez o circuito esteja montado você precisa tanto debugar o projeto como calibrar os sensores. Para isso é necessário que abra o software de Arduino no seu computador e com o arduino conectado ao computador e abra o [arquivo principal do projeto](https://github.com/4YouSee-Suporte/lift-and-learning-arduino-com-sensor-de-luz/blob/main/main.ino), clique em ![image](https://user-images.githubusercontent.com/63620799/119711903-6b248900-be36-11eb-9d9c-44757629380a.png) para compilar o código e logo em ![image](https://user-images.githubusercontent.com/63620799/119712032-8db6a200-be36-11eb-82d3-3e5fbd57b984.png). A partir de aqui  o cpodigo se encontra no Arduino Leonardo e cada mudança realizada deverá ser subida ao equipamento através do processo anteriormente explicado.
+# ⚈ Como Debugar ou Calibrar os Sensores</h1>
+Uma vez o circuito esteja montado você precisa tanto debugar o projeto como calibrar os sensores. Para isso é necessário que abra o software de Arduino no seu computador e com o arduino conectado ao computador e abra o [arquivo principal do projeto](https://github.com/4YouSee-Suporte/lift-and-learning-arduino-com-sensor-de-luz/blob/main/main.ino), clique em ![image](https://user-images.githubusercontent.com/63620799/119711903-6b248900-be36-11eb-9d9c-44757629380a.png) para compilar o código e logo em ![image](https://user-images.githubusercontent.com/63620799/119712032-8db6a200-be36-11eb-82d3-3e5fbd57b984.png). A partir de aqui  o código se encontra no Arduino Leonardo e cada mudança realizada deverá ser subida ao equipamento através do processo anteriormente explicado.
 
 Não esqueça de estabelecer a porta e a placa em Ferramentas.
 
