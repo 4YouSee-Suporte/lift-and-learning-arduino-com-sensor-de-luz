@@ -21,9 +21,9 @@ void loop() {
   int ldr2Status = analogRead(ldr2);
   int ldr3Status = analogRead(ldr3);
   String Lux = " Lux";
-  String sensor1 =  "Sensor 1 (A0) (MENTOS WHITE) = ";
-  String sensor2 =  "Sensor 2 (A1) (MENTOS GREEN) = ";
-  String sensor3 =  "Sensor 3 (A2) (MENTOS BLUE) = ";
+  String sensor1 =  "Sensor 1 (A0) = ";
+  String sensor2 =  "Sensor 2 (A1) = ";
+  String sensor3 =  "Sensor 3 (A2) = ";
   Serial.println(sensor1+ldr1Status+Lux);
   Serial.println(sensor2+ldr2Status+Lux);
   Serial.println(sensor3+ldr3Status+Lux);
