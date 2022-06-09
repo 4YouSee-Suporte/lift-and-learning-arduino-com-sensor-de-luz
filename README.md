@@ -14,8 +14,11 @@ Para este projeto é necessário cumprir os seguintes itens:
 
 * Arduino Leonardo (Pode ser mini ou não): Ele vai ser o responsável por processar o código e enviar o comando ao teclado referente ao estabelecido no código. Por padrão cada sensor vai enviar um número ao teclado, Exemplo: O sensor A0 envía o número 11 quando a luz for mayor a 500 Lux.
 *  Cabo Micro USB: Esse cabo vai ser conectado desde o Arduino Leonardo até o PC.
-* Ciurcuito Elétrico: ... Pendente carregar gráfico com ilustração do circuito.
-    * Cabos, resistências, outros periféricos eletricos.
+* Ciurcuito Elétrico:
+<h2 align='center' width='280px' heigth='280px'>
+    <img src="https://user-images.githubusercontent.com/63620799/172908995-65ce4fa1-04fe-4fd3-a5b9-3bf2e45bb784.png">
+</h2>
+
 * Base ou superficie onde ficarão os produtos: Os produtos de test são mentos de tres sabores diferentes. Mas é possível usar qualquer outro produto que consiga ficar em pé cobrindo a área de leitura do sensor de luz (LDR).
 * Computador Windows com el [software arduino](https://downloads.arduino.cc/arduino-1.8.15-windows.exe) instalado.
 
